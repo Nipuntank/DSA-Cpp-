@@ -1,4 +1,5 @@
 1. Some Important question to practice in Linked list - [Assignment_LL.docx](https://github.com/Nipuntank/DSA-Cpp-/files/9722226/Assignment_LL.docx).<br/>
   Solution - https://bit.ly/3fTMf6L <br/>
 2. All important Algorithims- [Sorting.Algorithims.pdf](https://github.com/Nipuntank/DSA-Cpp-/files/9740366/Sorting.Algorithims.pdf)<br/>
-  Solution - https://bit.ly/3CKUdrU
+  Solution - https://bit.ly/3CKUdrU </br>
+3. Tree important question to practice -[tree.pdf](https://github.com/Nipuntank/DSA-Cpp-/files/9759959/tree.pdf)
