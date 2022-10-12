@@ -2,5 +2,5 @@
   Solution - https://bit.ly/3fTMf6L <br/>
 2. All important Algorithims- [Sorting.Algorithims.pdf](https://github.com/Nipuntank/DSA-Cpp-/files/9740366/Sorting.Algorithims.pdf)<br/>
   Solution - https://bit.ly/3CKUdrU </br>
-3. Tree important question to practice -[tree.pdf](https://github.com/Nipuntank/DSA-Cpp-/files/9759959/tree.pdf)</br>
+3. Tree important question to practice -[Trees.pdf](https://github.com/Nipuntank/DSA-Cpp-/files/9768376/Trees.pdf)</br>
 Solution-https://bit.ly/3S9M4Sl
