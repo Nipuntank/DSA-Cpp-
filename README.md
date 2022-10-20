@@ -4,5 +4,6 @@
   Solution - https://bit.ly/3CKUdrU </br>
 3. Tree important question to practice -[Trees.pdf](https://github.com/Nipuntank/DSA-Cpp-/files/9768376/Trees.pdf)</br>
 Solution-https://bit.ly/3S9M4Sl </br>
-4. Binary Tree important question - [Binary Tree Imp Question .pdf](https://github.com/Nipuntank/DSA-Cpp-/files/9831007/Binary.Tree.Imp.Question.pdf)
+4. Binary Tree important question - [Binary Tree Imp Question .pdf](https://github.com/Nipuntank/DSA-Cpp-/files/9831007/Binary.Tree.Imp.Question.pdf)</br>
+Solution - https://bit.ly/3gnUwjF
 
